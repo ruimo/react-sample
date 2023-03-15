@@ -1,1 +1,7 @@
 site_name: My Docs
+
+theme:
+  language: ja
+  name: material
+  palette:
+    scheme: slate
